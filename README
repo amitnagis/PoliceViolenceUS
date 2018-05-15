@@ -1,0 +1,6 @@
+main.ipynb is the ipython notebook with the ongoing analysis on the pattern of police shootings in
+US. The notebook is written on python 2.7 and has following major dependencies:
+1. Numpy, Scipy, Matplotlib
+2. Pandas
+3. Folium
+The notebook provides the theoretical details of the study and points to the appropriate data sources.
